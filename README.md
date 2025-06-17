@@ -37,7 +37,7 @@ const mission = {
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thinkiepod&show_icons=true&theme=tokyonight)
 
-## Language Stats
+## 💻 Language Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thinkiepod&layout=compact&theme=tokyonight)
 
 ## 🎯 Current Focus Areas
