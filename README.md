@@ -56,7 +56,7 @@ Researching:
 ## 🤝 Let's Connect!
 - 💼 **LinkedIn**: [Your LinkedIn]
 - 🐦 **Twitter**: [@yourhandle]
-- 📧 **Email**: your.email@domain.com
+- 📧 **Email**: github@thinkiepod.com
 - 🌐 **Portfolio**: [yourwebsite.com]
 
 ## 💝 Supporting Young Learners
