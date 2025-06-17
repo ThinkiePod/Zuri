@@ -57,7 +57,7 @@ Researching:
 - 💼 **LinkedIn**: [Your LinkedIn]
 - 🐦 **Twitter**: [@yourhandle]
 - 📧 **Email**: github@thinkiepod.com
-- 🌐 **Portfolio**: [yourwebsite.com]
+- 🌐 **Portfolio**: https://thinkiepod.com
 
 ## 💝 Supporting Young Learners
 *"Every child deserves a friend who listens, learns, and grows with them. That's why I'm building Zuri."*
