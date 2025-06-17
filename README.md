@@ -18,6 +18,8 @@ const mission = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 **Specializing in:**
 - 🎯 Voice AI & Natural Language Processing
@@ -34,6 +36,9 @@ const mission = {
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thinkiepod&show_icons=true&theme=tokyonight)
+
+## Language Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thinkiepod&layout=compact&theme=tokyonight)
 
 ## 🎯 Current Focus Areas
 ```yaml
