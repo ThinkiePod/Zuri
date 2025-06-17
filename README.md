@@ -65,4 +65,4 @@ Researching:
 ---
 ⭐ **Fun Fact**: Did you know that children who engage in regular conversation show 32% faster language development? That's the science behind Zuri!
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=Thinkiepod&color=blueviolet)
