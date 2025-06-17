@@ -33,7 +33,7 @@ const mission = {
 - **Inclusive**: Supports children with speech delays and learning differences
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thinkiepod&show_icons=true&theme=tokyonight)
 
 ## 🎯 Current Focus Areas
 ```yaml
